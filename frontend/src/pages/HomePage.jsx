@@ -1,6 +1,6 @@
 import AddTask from "@/components/AddTask";
 import Footer from "@/components/Footer";
-import Header from "@/components/header";
+import Header from "@/components/Header";
 import TaskAndfilters from "@/components/TaskAndfilters";
 import TaskList from "@/components/TaskList";
 import React, { useEffect, useState } from "react";
